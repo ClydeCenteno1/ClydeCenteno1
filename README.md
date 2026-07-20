@@ -17,6 +17,7 @@
 - ☁️ Building a parallel **AWS / Cloud Engineering** track (SAA-C03) alongside my frontend work — Linux fundamentals, EC2/S3, Terraform next
 - 🧠 Engineering values: momentum over perfection — `// TODO: fix typing` and move forward beats stalling on one error; free-resource discipline; Socratic problem-solving before reaching for the answer
 - 🎓 Computer Engineering coursework (Java, OOP, systems fundamentals) running in parallel with self-directed frontend study
+- 🎬 Outside of code: anime/cinematic content creation (SoulFrames) and local LLM experimentation (Ollama, ComfyUI)
 
 <br>
 
@@ -24,11 +25,10 @@
 
 **Languages**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Styling & UI**
 
@@ -73,24 +73,24 @@ Client-facing landing page demo built to pitch small businesses on a fast, zero-
 </td>
 <td width="50%" valign="top">
 
-### ☕ [Cozy Café](https://github.com/ClydeCenteno1/Cozy-Cafe)
-Elegant single-page café site with a custom design system — built as a reusable template for real client pitches.
+### 💸 [Expense Tracker](https://github.com/ClydeCenteno1/Expense-Tracker)
+Full-CRUD expense tracker with live totals, category tagging, and in-place editing via a native modal dialog.
 
 `HTML` `Tailwind CSS` `Vanilla JS`
 
-**Standout:** Custom typography + color system (Cormorant Garamond + Inter) designed for non-technical business owners.
+**Standout:** Uses the browser's native `<dialog>` element for editing instead of a hand-built modal — full add/edit/delete flow with zero dependencies.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ✅ [vanilla-todo](https://github.com/ClydeCenteno1/vanilla-todo)
-Persistent to-do list app with full CRUD, built to master state management without a framework.
+### ⛅ [Weather App](https://github.com/ClydeCenteno1/Weather-App)
+Live weather lookup app pulling real-time conditions from a public weather API.
 
-`JavaScript` `Tailwind CSS` `localStorage API`
+`JavaScript` `OpenWeatherMap API` `Fetch/Async`
 
-**Standout:** Zero dependencies — state, persistence, and UI sync handled entirely in vanilla JS.
+**Standout:** Real-world third-party API integration with async data fetching — a core pattern for any production frontend app.
 
 </td>
 <td width="50%" valign="top">
