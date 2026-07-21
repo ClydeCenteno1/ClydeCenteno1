@@ -17,7 +17,6 @@
 - ☁️ Building a parallel **AWS / Cloud Engineering** track (SAA-C03) alongside my frontend work — Linux fundamentals, EC2/S3, Terraform next
 - 🧠 Engineering values: momentum over perfection — `// TODO: fix typing` and move forward beats stalling on one error; free-resource discipline; Socratic problem-solving before reaching for the answer
 - 🎓 Computer Engineering coursework (Java, OOP, systems fundamentals) running in parallel with self-directed frontend study
-- 🎬 Outside of code: anime/cinematic content creation (SoulFrames) and local LLM experimentation (Ollama, ComfyUI)
 
 <br>
 
