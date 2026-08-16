@@ -2,9 +2,9 @@
 
 # Hey, I'm Clyde 👋
 
-### Computer Engineering student, self-taught frontend developer, freelancer
+### Computer Engineering student, self-taught full-stack developer, freelancer
 
-*BS Computer Engineering @ Rizal Technological University ('29) · Working toward TypeScript/React/Next.js roles · 85+ freelance client pitches sent across Manila and Cavite*
+*BS Computer Engineering @ Rizal Technological University ('29) · Working toward full-stack TypeScript/React/Next.js/Node roles · 85+ freelance client pitches sent across Manila and Cavite*
 
 </div>
 
@@ -12,11 +12,11 @@
 
 ## About Me
 
-- Working through a JavaScript → TypeScript → React → Next.js roadmap, coding along instead of just watching tutorials. Currently building with React JS, TypeScript up next.
+- Working through a JavaScript → TypeScript → React → Next.js → Node/Express roadmap, coding along instead of just watching tutorials. Currently building with React JS, backend up next.
 - Running a freelance pipeline: pitching and building single-page sites for small businesses like barbershops, cafés, and tattoo studios.
-- Building a parallel AWS/cloud track toward the SAA-C03 cert. Comfortable with Linux and SSH, currently moving into EC2, S3, and Terraform.
+- Building a parallel AWS/cloud engineering track toward the SAA-C03 cert. Have Linux fundamentals, Vim, and SSH down; core AWS services, Terraform, Python/boto3, Docker, and Kubernetes are next.
 - I'd rather leave a `// TODO: fix typing` and keep moving than stall on one error. I try to work through problems myself before looking up the answer.
-- Taking Computer Engineering coursework (Java, OOP, systems fundamentals) alongside the self-directed frontend study.
+- Taking Computer Engineering coursework (Java, OOP, systems fundamentals) alongside the self-directed full-stack and cloud study.
 
 <br>
 
@@ -52,10 +52,15 @@ DOM manipulation and event delegation, async JS (Promises, async/await), Fetch/A
 **Currently learning**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-React TypeScript next, then Next.js. AWS and Terraform are next on the cloud track, building on the Linux basics I've already covered.
+React TypeScript and Next.js next, then Node/Express/MongoDB on the backend side. On the cloud track, Linux/Vim/SSH are done and core AWS services (toward SAA-C03) are next, followed by Terraform, Python/boto3, Docker, and Kubernetes. Full roadmap for both tracks is in [dev-roadmap-tracker](https://github.com/ClydeCenteno1/dev-roadmap-tracker) and [cloudpath-tracker](https://github.com/ClydeCenteno1/cloudpath-tracker).
 
 <br>
 
@@ -133,5 +138,5 @@ Typography (Cormorant Garamond and Crimson Pro) chosen for reading comfort, not 
 <br>
 
 <div align="center">
-<sub>Open to entry-to-mid-level frontend roles and freelance work in the Philippines remote market.</sub>
+<sub>Open to entry-to-mid-level full-stack, frontend, and cloud engineering roles, plus freelance work, in the Philippines remote market.</sub>
 </div>
