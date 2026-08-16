@@ -2,30 +2,31 @@
 
 # Hey, I'm Clyde 👋
 
-### Frontend-focused Computer Engineering student turning a self-taught roadmap into shipped client work
+### Computer Engineering student, self-taught frontend developer, freelancer
 
-*BS Computer Engineering @ Rizal Technological University ('29) · Building toward TypeScript/React/Next.js roles · Freelance web developer with 85+ direct client pitches shipped*
+*BS Computer Engineering @ Rizal Technological University ('29) · Working toward TypeScript/React/Next.js roles · 85+ freelance client pitches sent across Manila and Cavite*
 
 </div>
 
 <br>
 
-## 🧭 About Me
+## About Me
 
-- 🔭 Currently working through a disciplined **JavaScript → TypeScript → React → Next.js** roadmap — now in the React phase (React JS first, then React TypeScript) — coding along in real time, not just watching tutorials
-- 💼 Running an active freelance pipeline: pitching and shipping single-page sites for small businesses (barbershops, cafés, tattoo studios) across Manila and Cavite
-- ☁️ Building a parallel **AWS / Cloud Engineering** track (SAA-C03) — comfortable with Linux fundamentals and SSH, currently moving into EC2/S3 and Terraform
-- 🧠 Engineering values: momentum over perfection — `// TODO: fix typing` and move forward beats stalling on one error; free-resource discipline; Socratic problem-solving before reaching for the answer
-- 🎓 Computer Engineering coursework (Java, OOP, systems fundamentals) running in parallel with self-directed frontend study
+- Working through a JavaScript → TypeScript → React → Next.js roadmap, coding along instead of just watching tutorials. Currently building with React JS, TypeScript up next.
+- Running a freelance pipeline: pitching and building single-page sites for small businesses like barbershops, cafés, and tattoo studios.
+- Building a parallel AWS/cloud track toward the SAA-C03 cert. Comfortable with Linux and SSH, currently moving into EC2, S3, and Terraform.
+- I'd rather leave a `// TODO: fix typing` and keep moving than stall on one error. I try to work through problems myself before looking up the answer.
+- Taking Computer Engineering coursework (Java, OOP, systems fundamentals) alongside the self-directed frontend study.
 
 <br>
 
-## 🧰 Tech Stack & Ecosystem
+## Tech Stack
 
-**Languages**
+**Languages & Libraries**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -38,9 +39,9 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Core JS Skills**
+**Core JS & React Skills**
 
-DOM manipulation & event delegation · Async JS (Promises, async/await) · Fetch/AJAX & REST API integration · localStorage CRUD · Git & GitHub workflows · Node/NPM basics
+DOM manipulation and event delegation, async JS (Promises, async/await), Fetch/AJAX and REST API integration, localStorage CRUD, React hooks (useState, useEffect), Git/GitHub workflows, Node/NPM basics.
 
 **Tools & Platforms**
 
@@ -48,39 +49,38 @@ DOM manipulation & event delegation · Async JS (Promises, async/await) · Fetch
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**🌱 Currently Learning**
+**Currently learning**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
-*In the React phase of my frontend roadmap — React JS fundamentals first, then React TypeScript, before moving into Next.js. AWS/Terraform are next on my cloud engineering track toward SAA-C03, building on Linux fundamentals I've already covered.*
+React TypeScript next, then Next.js. AWS and Terraform are next on the cloud track, building on the Linux basics I've already covered.
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🏪 [Razor & Co. Barbershop](https://github.com/ClydeCenteno1/Razor-Co.-Barbershop)
-Client-facing landing page demo built to pitch small businesses on a fast, zero-maintenance web presence.
+A landing page demo I use to pitch small businesses on a fast, low-maintenance web presence.
 
 `HTML` `Tailwind CSS` `Vanilla JS`
 
-**Standout:** One of two live demo assets driving an 85+ cold-outreach freelance pipeline across Manila and Cavite.
+One of two live demos I show during cold outreach.
 
 </td>
 <td width="50%" valign="top">
 
 ### 💸 [Expense Tracker](https://github.com/ClydeCenteno1/Expense-Tracker)
-Full-CRUD expense tracker with live totals, category tagging, and in-place editing via a native modal dialog.
+Full CRUD expense tracker with live totals, category tags, and in-place editing.
 
 `HTML` `Tailwind CSS` `Vanilla JS`
 
-**Standout:** Uses the browser's native `<dialog>` element for editing instead of a hand-built modal — full add/edit/delete flow with zero dependencies.
+Editing happens through the browser's native `<dialog>` element instead of a custom-built modal, so the whole add/edit/delete flow runs with no dependencies.
 
 </td>
 </tr>
@@ -88,21 +88,21 @@ Full-CRUD expense tracker with live totals, category tagging, and in-place editi
 <td width="50%" valign="top">
 
 ### ⛅ [Weather App](https://github.com/ClydeCenteno1/Weather-App)
-Live weather lookup app pulling real-time conditions from a public weather API.
+Weather lookup app pulling live conditions from a public API.
 
 `JavaScript` `OpenWeatherMap API` `Fetch/Async`
 
-**Standout:** Real-world third-party API integration with async data fetching — a core pattern for any production frontend app.
+Third-party API integration with async data fetching.
 
 </td>
 <td width="50%" valign="top">
 
 ### 📖 [Bible](https://github.com/ClydeCenteno1/Bible)
-Scripture lookup app with a parchment-inspired reading experience, integrating a public REST API.
+Scripture lookup app with a parchment-style reading layout, built on a public REST API.
 
 `JavaScript` `Axios` `Tailwind CSS`
 
-**Standout:** Custom typographic theme (Cormorant Garamond + Crimson Pro) built for reading comfort, not just function.
+Typography (Cormorant Garamond and Crimson Pro) chosen for reading comfort, not just as decoration.
 
 </td>
 </tr>
@@ -110,7 +110,7 @@ Scripture lookup app with a parchment-inspired reading experience, integrating a
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Scripture lookup app with a parchment-inspired reading experience, integrating a
 
 <br>
 
-## 🤝 Connect With Me
+## Connect
 
 <div align="center">
 
@@ -133,5 +133,5 @@ Scripture lookup app with a parchment-inspired reading experience, integrating a
 <br>
 
 <div align="center">
-<sub>Open to entry-to-mid-level frontend roles and freelance web projects — Philippines remote market.</sub>
+<sub>Open to entry-to-mid-level frontend roles and freelance work in the Philippines remote market.</sub>
 </div>
